@@ -1,0 +1,21 @@
+{
+    "name": "Simple To Do",
+    "short_name": "PWA",
+    "description": "Simple To Do list Progressive Web App",
+  
+    "scope": "/simple-to-do/",
+    "start_url": "/simple-to-do/",
+  
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+  
+    "display": "standalone", 
+    
+    "icons": [
+        {
+          "src": "/simple-to-do/img/icon.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+    ]
+  }
